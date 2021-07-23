@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("tlo.jpg");
+}
+
+#container
+{
+    background-color: white;
+    width: 300px;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin
+    -webkit-box-shadow: -71px 44px 50px 19px rgba(0,0,0,0.75);
+    -moz-box-shadow: -71px 44px 50px 19px rgba(0,0,0,0.75);
+    box-shadow: -71px 44px 50px 19px rgba(0,0,0,0.75);
+}
+
+input
+{
+    width: 300px;
+    background-color: #efefef;
+    color: #666;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+}
